@@ -1,4 +1,4 @@
 ## Demo
 Here is a demonstration of the app in action:
 
-![App Demo](demo/WeatherApp.gif) <!-- For GIFs -->
+<img src="demo/WeatherApp.gif" width="300" alt="App Demo">
